@@ -1,0 +1,146 @@
+*{
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.navbar{
+    
+    color: white;
+}
+.navbar ul li {
+    color:white;
+   
+}
+.nav-item{
+    margin:20px;
+}
+ .navbar-nav:hover{
+    color: aquamarine;
+
+}
+body{
+    background-repeat: no-repeat;
+   background-size: cover;
+    size:100%;
+}
+.x1{
+   font-size: 40px;
+   color: white;
+   text-align: center;
+   margin-top: 60px;
+}
+.x2{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.x2::first-letter{
+    font-size:60px;
+    color: blue;
+}
+.footer{
+    padding: 25px;
+    
+    color: white;
+}
+.ebutton{
+
+    padding:5px 5px 5px 30px;
+    width: 300px;
+    color: grey;
+    border-radius: 5px;
+    font-family: 20px;
+    border: 1px solid grey;
+}
+.ebutton:hover{
+    border-bottom: 3px solid lightseagreen;
+    border-top: none;
+    border-right:none ;
+    border-left: none;
+}
+.ebutton:focus{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid lightseagreen;
+    outline: none;
+}
+input{
+    padding: 12px;
+    margin: 10px;
+    width:425px;
+    box-sizing: border-box;
+border: 1px solid white;
+color: rgba(9, 59, 71, 0.795);
+border-radius: 10px;
+
+
+}
+input:hover{
+    border:2px solid blue;
+
+}
+input:focus{
+border: 2px solid blue;
+
+outline:none ;
+}
+.first {
+    width:200px;
+}
+.about1,.about2{
+    margin-top: 100px;
+}
+
+.para
+{
+    color: blue;
+}
+.about2{
+    margin-left: 100px;
+}
+.log{
+    margin-top: 100px;
+}
+input#name{
+    background-image: url;
+}
+.service1{
+    border-radius: 50%;
+    padding: 20px;
+    border: 2px solid white;
+ 
+}
+
+.imagesetting
+{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+
+}
+.form-control{
+    
+    padding:20px;
+    margin:20px;
+    width:380px;
+}
+.submit1{
+    width:100px;
+    margin-left: 20px;
+}
+hr{
+    height: 5px ;
+   background-color:  blue;
+    border: none;
+    width:100px;
+    margin-left: -1px;
+}
+    
+.sign{
+    margin-top:-1px;
+}
+* {
+    font-family: "Raleway";
+    box-sizing: border-box;
+  }
+  
+  
